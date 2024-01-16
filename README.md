@@ -1,6 +1,6 @@
 # mapping-between-cloud-standards
 
-Contributor: Yuchen Wong, Chen Yan, Shengfang zhai, Yuqin Qiu. 
+Contributor: Yuchen Wong, Chen Yan, Shengfang zhai, Yuqin Qiu, Cong Li, Qingni Shen. 
 
 File Describtion:
 
